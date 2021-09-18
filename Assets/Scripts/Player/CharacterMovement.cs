@@ -25,7 +25,7 @@ public class CharacterMovement : MonoBehaviour
         controller = GetComponent<CharacterController>();
     }
 
-    void Update()
+    private void FixedUpdate()
     {
         if (OnGround() && velocity.y < 0)
         {
