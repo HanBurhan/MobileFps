@@ -3,6 +3,7 @@ using UnityEngine;
 public class RifleWeapon : MonoBehaviour
 {
     [SerializeField] AudioClip readySound, fireSound;
+    [SerializeField] private ParticleSystem muzzleFlash;
 
     private AudioSource RifleSource;
     private Animator anim;
@@ -36,6 +37,7 @@ public class RifleWeapon : MonoBehaviour
 
         RifleSource.clip = fireSound;
         RifleSource.Play();
+        muzzleFlash.Play();
     }
 
     public void RifleReadySound()
