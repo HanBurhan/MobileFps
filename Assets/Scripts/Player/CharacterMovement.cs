@@ -5,6 +5,7 @@ public class CharacterMovement : MonoBehaviour
     [SerializeField] float sphereRadius;
     [SerializeField] float jumpDistance;
     [SerializeField] float walkSpeed;
+    [SerializeField] float crouchHeight;
 
     [SerializeField] FixedJoystick joystick;
 
@@ -15,8 +16,11 @@ public class CharacterMovement : MonoBehaviour
     [SerializeField] private Animator anim;
 
     private static float gravity = -9.81f;
+    private float normalHeight = 2f;
 
     private CharacterController controller;
+
+    private bool isCrouching, canUp;
 
     private Vector3 velocity;
 
@@ -31,6 +35,8 @@ public class CharacterMovement : MonoBehaviour
         {
             velocity.y = -2f;
         }
+
+        controller.height = isCrouching ? crouchHeight : normalHeight;
 
         InputMove();
         UseGravity();
@@ -52,10 +58,17 @@ public class CharacterMovement : MonoBehaviour
 
     public void Jump()
     {
+        isCrouching = false;
+
         if (OnGround())
         {
             velocity.y = Mathf.Sqrt(jumpDistance * -2f * gravity);
         }
+    }
+
+    public void Crouch()
+    {
+        isCrouching = !isCrouching;
     }
 
     private bool OnGround()
