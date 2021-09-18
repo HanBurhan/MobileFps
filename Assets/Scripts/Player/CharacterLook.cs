@@ -13,7 +13,7 @@ public class CharacterLook : MonoBehaviour
     {
         foreach (Touch touch in Input.touches)
         {
-            if (touch.position.x > Screen.width / 2 && touch.phase == TouchPhase.Moved)
+            if (touch.position.x > Screen.width / 2 && touch.phase == TouchPhase.Began)
             {
                 float xLook = touch.deltaPosition.x * lookSensitivity * Time.fixedDeltaTime;
                 float yLook = touch.deltaPosition.y * lookSensitivity * Time.fixedDeltaTime;
