@@ -4,14 +4,13 @@ public class RifleWeapon : MonoBehaviour
 {
     [SerializeField] AudioClip readySound, fireSound;
     [SerializeField] private ParticleSystem muzzleFlash;
+    [SerializeField] GameObject impactEffect;
 
     private AudioSource RifleSource;
     private Animator anim;
 
     private float fireRate;
     private float rifleCoolDown = 0.12f;
-
-    private bool autoFire = true;
 
     private void Start()
     {
@@ -21,13 +20,18 @@ public class RifleWeapon : MonoBehaviour
 
     private void Update()
     {
-        if (autoFire) { rifleCoolDown = 0.12f; }
-        else { rifleCoolDown = 0.5f; }
+        RaycastHit hit;
+        Vector3 ray = Camera.main.ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0));
 
-        if (LaserSight.enemyDetected && Time.time > fireRate)
+        Physics.Raycast(ray, Camera.main.transform.forward, out hit);
+
+        if (hit.transform.tag == "Enemy" && Time.time > fireRate)
         {
             RifleFire();
             fireRate = Time.time + rifleCoolDown;
+
+            hit.transform.GetComponent<EnemyCombat>().TakeDamage(2);
+            GameObject newImpact = Instantiate(impactEffect, hit.point, Quaternion.LookRotation(hit.normal));
         }
     }
 
@@ -43,10 +47,5 @@ public class RifleWeapon : MonoBehaviour
     public void RifleReadySound()
     {
         RifleSource.PlayOneShot(readySound);
-    }
-
-    public void ChangeFireMod()
-    {
-        autoFire = !autoFire;
     }
 }

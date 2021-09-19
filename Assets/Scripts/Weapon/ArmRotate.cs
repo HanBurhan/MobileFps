@@ -11,7 +11,7 @@ public class ArmRotate : MonoBehaviour
         cameraPos = Camera.main.transform;
     }
 
-    void Update()
+    private void LateUpdate()
     {
         float xAxis = cameraPos.transform.eulerAngles.x;
         float yAxis = cameraPos.transform.eulerAngles.y;
