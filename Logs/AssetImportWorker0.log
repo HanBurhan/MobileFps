@@ -549,3 +549,525 @@ Total: 3.517700 ms (FindLiveObjects: 0.382600 ms CreateObjectMapping: 0.189100 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 10.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.7 MB.
+System memory in use after: 52.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3305.
+Total: 4.797200 ms (FindLiveObjects: 0.344800 ms CreateObjectMapping: 0.286000 ms MarkObjects: 4.116600 ms  DeleteObjects: 0.048100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.284 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3308.
+Total: 2.428800 ms (FindLiveObjects: 0.217700 ms CreateObjectMapping: 0.126300 ms MarkObjects: 2.065200 ms  DeleteObjects: 0.018700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.342 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 6.153400 ms (FindLiveObjects: 0.403900 ms CreateObjectMapping: 0.255600 ms MarkObjects: 5.459400 ms  DeleteObjects: 0.032900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.230 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3314.
+Total: 2.351500 ms (FindLiveObjects: 0.236000 ms CreateObjectMapping: 0.136200 ms MarkObjects: 1.945700 ms  DeleteObjects: 0.032700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.330 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3317.
+Total: 2.767500 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.189900 ms MarkObjects: 2.254400 ms  DeleteObjects: 0.021300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.665 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3320.
+Total: 3.921300 ms (FindLiveObjects: 0.833200 ms CreateObjectMapping: 0.409000 ms MarkObjects: 2.649100 ms  DeleteObjects: 0.028800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.572 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3323.
+Total: 4.624600 ms (FindLiveObjects: 0.313600 ms CreateObjectMapping: 0.152600 ms MarkObjects: 4.129400 ms  DeleteObjects: 0.026900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005383 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3326.
+Total: 2.327900 ms (FindLiveObjects: 0.270300 ms CreateObjectMapping: 0.214300 ms MarkObjects: 1.822300 ms  DeleteObjects: 0.020000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003851 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.175 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3329.
+Total: 2.348100 ms (FindLiveObjects: 0.249000 ms CreateObjectMapping: 0.154200 ms MarkObjects: 1.910400 ms  DeleteObjects: 0.033600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.388 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3332.
+Total: 2.347700 ms (FindLiveObjects: 0.257500 ms CreateObjectMapping: 0.153600 ms MarkObjects: 1.915200 ms  DeleteObjects: 0.020500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.254 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 107.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3335.
+Total: 2.555500 ms (FindLiveObjects: 0.269300 ms CreateObjectMapping: 0.195900 ms MarkObjects: 2.065300 ms  DeleteObjects: 0.024000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 4521.171705 seconds.
+  path: Assets/Models/Arms/arms@smg45.fbx
+  artifactKey: Guid(f37227b7bb04fc1468d25a0786bc7b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Arms/arms@smg45.fbx using Guid(f37227b7bb04fc1468d25a0786bc7b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc993f050ece1ff9ca373d93f465559') in 0.903364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.131573 seconds.
+  path: Assets/Textures/Arms/armAO.png
+  artifactKey: Guid(0fd13a9c2f087114c944ab8366d19a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/armAO.png using Guid(0fd13a9c2f087114c944ab8366d19a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbeff638c5f2b1dcd805a8ddbafed666') in 0.077913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Textures/Arms/carbineNormal.png
+  artifactKey: Guid(19532a6ff5673464cafca5c3c807d8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/carbineNormal.png using Guid(19532a6ff5673464cafca5c3c807d8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9fbe767164210b00eb8f746f501a465') in 0.046198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Textures/Arms/carbineColor.png
+  artifactKey: Guid(2d1524963d7057842a7d376af689f538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/carbineColor.png using Guid(2d1524963d7057842a7d376af689f538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f43f45c10681e3a3dd615cb12e34900') in 0.036921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Textures/Arms/redDot.png
+  artifactKey: Guid(1793601a092c5eb4084380208fbd735b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/redDot.png using Guid(1793601a092c5eb4084380208fbd735b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c58315b09b4b8d8dd6dca4222c0f5b3') in 0.033475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000866 seconds.
+  path: Assets/Textures/Arms/carbinespecular.png
+  artifactKey: Guid(f190e0a0558e4374e85157625b2870d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/carbinespecular.png using Guid(f190e0a0558e4374e85157625b2870d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f3f57cea7e1e958738d6f8f9b14887c') in 0.048420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Textures/Arms/armColor.png
+  artifactKey: Guid(ddcbe1fb228eda54ebcbeca06a71035d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/armColor.png using Guid(ddcbe1fb228eda54ebcbeca06a71035d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7d957fa2396624d2cba65731cfc190') in 0.020941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Textures/Arms/carbineAo.png
+  artifactKey: Guid(15da8d758f3408f4395098d56b58e307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/carbineAo.png using Guid(15da8d758f3408f4395098d56b58e307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4e5e9f0fe3383ac819c1c437678244') in 0.040595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Textures/Arms/armmetallic.png
+  artifactKey: Guid(fa727f95d9971874ba8f6179aceae425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/armmetallic.png using Guid(fa727f95d9971874ba8f6179aceae425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a6603fabd3973746f5364ad1a4d50a') in 0.033129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Textures/Arms/armsmoothness.png
+  artifactKey: Guid(3cc9c167f9b0d8843a996302a74e347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/armsmoothness.png using Guid(3cc9c167f9b0d8843a996302a74e347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c58d62196063d350e9826c7ae88579') in 0.043529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Textures/Arms/armNormal.png
+  artifactKey: Guid(bccc6d675c76bc3479edea968b096d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/armNormal.png using Guid(bccc6d675c76bc3479edea968b096d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '015fb65edf503158812280582fefd942') in 0.029465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Textures/Arms/carbineMetallic.png
+  artifactKey: Guid(a446ae9d145ff604696c71b54b8e453d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/carbineMetallic.png using Guid(a446ae9d145ff604696c71b54b8e453d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef414d2252c06c973496bead4a62f67') in 0.048498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.786915 seconds.
+  path: Assets/Models/Arms/arms@smg45.fbx
+  artifactKey: Guid(f37227b7bb04fc1468d25a0786bc7b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Arms/arms@smg45.fbx using Guid(f37227b7bb04fc1468d25a0786bc7b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7af0c886fa19b3f2c1b0fdb6299658') in 0.098232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.009089 seconds.
+  path: Assets/Materials/arms/arms 1.mat
+  artifactKey: Guid(90c1424cfeba9bc47855575383a4b6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/arms 1.mat using Guid(90c1424cfeba9bc47855575383a4b6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd9b386272a45b74a830c663d7972ab') in 0.035493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Materials/arms/smg45.mat
+  artifactKey: Guid(17650a6f2aef94745929a0998cefc65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/smg45.mat using Guid(17650a6f2aef94745929a0998cefc65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7fb7f8a05bca1a15c0aeb405434bdec') in 0.019128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.810680 seconds.
+  path: Assets/Textures/Arms/smg45Ao.png
+  artifactKey: Guid(149328561d18e7e488a45ab9705be2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Ao.png using Guid(149328561d18e7e488a45ab9705be2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaebbe60f0ac31b1d65adef090883d45') in 0.053913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Textures/Arms/smg45Color.png
+  artifactKey: Guid(f11fb1770ca1fe246a5f1e6409ecaedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Color.png using Guid(f11fb1770ca1fe246a5f1e6409ecaedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4df8753a5249c973a649b2f7f525c2') in 0.028292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Textures/Arms/smg45Specular.png
+  artifactKey: Guid(653bb15641cb10745ad28b11b4c5bfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Specular.png using Guid(653bb15641cb10745ad28b11b4c5bfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e1c7c6701528f95cca45b0255d4708') in 0.034345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Textures/Arms/smg45Metallic.png
+  artifactKey: Guid(2e2c0a3604559d843851fdbd3f29cbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Metallic.png using Guid(2e2c0a3604559d843851fdbd3f29cbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f23082738c40b6c3c963966b5092a2d') in 0.038817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Textures/Arms/smg45Normal.png
+  artifactKey: Guid(cb2cea82062b38444b06705a2530f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Normal.png using Guid(cb2cea82062b38444b06705a2530f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb5eb2d2f95d0048c508a3840580024') in 0.036429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.154300 seconds.
+  path: Assets/Textures/Arms/smg45Color.png
+  artifactKey: Guid(f11fb1770ca1fe246a5f1e6409ecaedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Color.png using Guid(f11fb1770ca1fe246a5f1e6409ecaedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2607ea99b2ebfb959b898329e0f0beae') in 0.018680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017541 seconds.
+  path: Assets/Textures/Arms/smg45Ao.png
+  artifactKey: Guid(149328561d18e7e488a45ab9705be2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Ao.png using Guid(149328561d18e7e488a45ab9705be2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55bc91c9bcecc0ce14d4ffee6cf8c8d5') in 0.016012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Textures/Arms/smg45Specular.png
+  artifactKey: Guid(653bb15641cb10745ad28b11b4c5bfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Specular.png using Guid(653bb15641cb10745ad28b11b4c5bfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7294721e7b3c0ddaa8852e4f6ab1402d') in 0.019969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Textures/Arms/smg45Metallic.png
+  artifactKey: Guid(2e2c0a3604559d843851fdbd3f29cbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Metallic.png using Guid(2e2c0a3604559d843851fdbd3f29cbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2721ee545fac55fb1962ed495f15df56') in 0.021586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Textures/Arms/smg45Normal.png
+  artifactKey: Guid(cb2cea82062b38444b06705a2530f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Normal.png using Guid(cb2cea82062b38444b06705a2530f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c0a8292800ff61f837001c4d1f20ef') in 0.017569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.759757 seconds.
+  path: Assets/Textures/Arms/smg45Normal.png
+  artifactKey: Guid(cb2cea82062b38444b06705a2530f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/smg45Normal.png using Guid(cb2cea82062b38444b06705a2530f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d513f27627eb59d5ffc02a8e2764297') in 0.021306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.449939 seconds.
+  path: Assets/Materials/arms/smg45.mat
+  artifactKey: Guid(17650a6f2aef94745929a0998cefc65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/smg45.mat using Guid(17650a6f2aef94745929a0998cefc65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e652f16fba73e68aa09f04ed40ae7102') in 0.138737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.623429 seconds.
+  path: Assets/Models/Arms/arms@smg45.fbx
+  artifactKey: Guid(f37227b7bb04fc1468d25a0786bc7b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Arms/arms@smg45.fbx using Guid(f37227b7bb04fc1468d25a0786bc7b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1cd345bc885ddda48ad2e9b9f58656') in 0.176552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 189.316878 seconds.
+  path: Assets/Models/Arms/arms@bpPistol.fbx
+  artifactKey: Guid(ec5fd98c6a3ff65408c5ddf93189f986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Arms/arms@bpPistol.fbx using Guid(ec5fd98c6a3ff65408c5ddf93189f986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c222ef2e37e3adec6784337db1ae709') in 0.143228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.058949 seconds.
+  path: Assets/Models/Arms/arms@bpPistol.fbx
+  artifactKey: Guid(ec5fd98c6a3ff65408c5ddf93189f986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Arms/arms@bpPistol.fbx using Guid(ec5fd98c6a3ff65408c5ddf93189f986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea03165776d698b04a83264c2379638') in 0.136144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.349126 seconds.
+  path: Assets/Textures/Arms/blackpantherColor.png
+  artifactKey: Guid(a305f85569d83494aa1d320eecb36337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/blackpantherColor.png using Guid(a305f85569d83494aa1d320eecb36337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779d6e4d6ba275d83ef3d6fd0a80cd07') in 0.032923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Textures/Arms/blackpantherNormal.png
+  artifactKey: Guid(94e9d7125bab199428691c8d0c41c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/blackpantherNormal.png using Guid(94e9d7125bab199428691c8d0c41c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9244b296f4d62b15e151e59dd609902f') in 0.052711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.086806 seconds.
+  path: Assets/Textures/Arms/blackpantherNormal.png
+  artifactKey: Guid(94e9d7125bab199428691c8d0c41c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/blackpantherNormal.png using Guid(94e9d7125bab199428691c8d0c41c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99815aa4d9650964979845f0008ea0a') in 0.019640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Textures/Arms/blackpantherColor.png
+  artifactKey: Guid(a305f85569d83494aa1d320eecb36337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/blackpantherColor.png using Guid(a305f85569d83494aa1d320eecb36337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb537270f3f7b55fc2c4e9c90950dd2') in 0.019932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.369356 seconds.
+  path: Assets/Materials/arms/Mat.mat
+  artifactKey: Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Mat.mat using Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad4e04d5db112b8dbe180266c32d06f') in 0.017547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.230273 seconds.
+  path: Assets/Materials/arms/Pistol.mat
+  artifactKey: Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Pistol.mat using Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42697c179fd927fe4d5629fec60b4ef1') in 0.017913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.578498 seconds.
+  path: Assets/Materials/arms/Smg.mat
+  artifactKey: Guid(17650a6f2aef94745929a0998cefc65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Smg.mat using Guid(17650a6f2aef94745929a0998cefc65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9ac96784e0312f44693929e50358c0') in 0.029930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.286626 seconds.
+  path: Assets/Materials/arms/Lens.mat
+  artifactKey: Guid(e8a2e720e781df44da82b56e8021ba55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Lens.mat using Guid(e8a2e720e781df44da82b56e8021ba55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03eb0df98eb0bfe791b4b07b1bc7187') in 0.242979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.436141 seconds.
+  path: Assets/Materials/arms/Rifle.mat
+  artifactKey: Guid(921ea9517b1c99643a4d8a80f064a7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Rifle.mat using Guid(921ea9517b1c99643a4d8a80f064a7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c98baa419b0b4d1e9921787543b6b41') in 0.027735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.355545 seconds.
+  path: Assets/Materials/arms/Arms.mat
+  artifactKey: Guid(236e45bfb2f65624aa3145b5cb0a1d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Arms.mat using Guid(236e45bfb2f65624aa3145b5cb0a1d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed819195cfc88602d1edbf80502839c') in 0.033769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.961121 seconds.
+  path: Assets/Textures/Arms/blackpantherNormal.png
+  artifactKey: Guid(94e9d7125bab199428691c8d0c41c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arms/blackpantherNormal.png using Guid(94e9d7125bab199428691c8d0c41c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af9bf31871b6bcc37b54bf50dbd6ea1') in 0.031892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.444424 seconds.
+  path: Assets/Materials/arms/Pistol.mat
+  artifactKey: Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Pistol.mat using Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0995b83ee63f03c492aeddec87fe54') in 0.108650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.742657 seconds.
+  path: Assets/Materials/arms/Pistol.mat
+  artifactKey: Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/arms/Pistol.mat using Guid(02f470a5d4ded7847a715933666cf5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94464fdcc5a49f92ecc564df4eade009') in 0.018613 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

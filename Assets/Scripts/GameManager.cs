@@ -46,4 +46,9 @@ public class GameManager : MonoBehaviour
     {
         source.PlayOneShot(audio);
     }
+
+    public void SelectGraphic(int index)
+    {
+        QualitySettings.SetQualityLevel(index);
+    }
 }
