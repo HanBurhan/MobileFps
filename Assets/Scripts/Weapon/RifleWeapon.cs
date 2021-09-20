@@ -25,7 +25,7 @@ public class RifleWeapon : MonoBehaviour
 
         Physics.Raycast(ray, Camera.main.transform.forward, out hit);
 
-        if (hit.transform.tag == "Enemy" && Time.time > fireRate)
+        if (hit.transform != null && hit.transform.tag == "Enemy" && Time.time > fireRate)
         {
             RifleFire();
             fireRate = Time.time + rifleCoolDown;

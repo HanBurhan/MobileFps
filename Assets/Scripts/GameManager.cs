@@ -4,16 +4,20 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     [SerializeField] private GameObject MenuPanel;
+    [SerializeField] private GameObject player;
     [SerializeField] private Slider slider;
+
+    private AudioSource source;
 
     private void Start()
     {
-        CharacterLook.lookSensitivity = 15;
+        CharacterRotation.lookSensitivity = 15;
+        source = player.GetComponent<AudioSource>();
     }
 
     private void Update()
     {
-        CharacterLook.lookSensitivity = slider.value;
+        CharacterRotation.lookSensitivity = slider.value;
     }
 
     public void PauseMenu()
@@ -31,5 +35,15 @@ public class GameManager : MonoBehaviour
     {
         MenuPanel.SetActive(false);
         Time.timeScale = 1f;
+    }
+
+    public void MenuSounds(AudioClip audio)
+    {
+        source.PlayOneShot(audio);
+    }
+
+    public void ScrollingSounds(AudioClip audio)
+    {
+        source.PlayOneShot(audio);
     }
 }
