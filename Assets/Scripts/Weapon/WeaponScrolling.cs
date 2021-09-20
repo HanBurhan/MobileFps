@@ -5,7 +5,7 @@ public class WeaponScrolling : MonoBehaviour
     [SerializeField] GameObject scrollingPanel;
     [SerializeField] GameObject[] weapons;
 
-    public static int currentWeaponIndex = 0;
+    public static int currentWeaponIndex;
 
     public static bool isScrolling;
 
