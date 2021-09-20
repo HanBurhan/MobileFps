@@ -13,7 +13,7 @@ public class CharacterMovement : MonoBehaviour
 
     [SerializeField] Transform sphereCenter;
 
-    [SerializeField] private Animator anim;
+    [SerializeField] private Animator[] anim;
 
     private static float gravity = -9.81f;
     private float normalHeight = 2f;
@@ -51,7 +51,19 @@ public class CharacterMovement : MonoBehaviour
 
         bool playerMoving = x != 0 || z != 0;
 
-        anim.SetBool("Walk", playerMoving);
+
+        switch (WeaponScrolling.currentWeaponIndex)
+        {
+            case 0 : 
+                anim[0].SetBool("Walk", playerMoving);
+                break;
+            case 1:
+                anim[1].SetBool("Walk", playerMoving);
+                break;
+            case 2:
+                anim[2].SetBool("Walk", playerMoving);
+                break;
+        }
 
         controller.Move(moveDir * walkSpeed * Time.deltaTime);
     }
