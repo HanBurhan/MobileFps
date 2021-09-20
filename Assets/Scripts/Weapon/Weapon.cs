@@ -5,7 +5,7 @@ public class Weapon : MonoBehaviour
     [SerializeField] AudioClip readySound, fireSound;
     [SerializeField] private ParticleSystem muzzleFlash;
     [SerializeField] GameObject impactEffect;
-    [SerializeField] private float rifleCoolDown = 0.12f;
+    [SerializeField] private float fireCoolDown = 0.12f;
 
     private AudioSource source;
     private Animator anim;
@@ -33,19 +33,17 @@ public class Weapon : MonoBehaviour
         }
     }
 
-    private void Update()
+    public void OpenFire()
     {
         RaycastHit hit;
         Vector3 ray = Camera.main.ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0));
 
-        Physics.Raycast(ray, Camera.main.transform.forward, out hit);
-
-        if (hit.transform != null && hit.transform.tag == "Enemy" && Time.time > fireRate)
+        if (Physics.Raycast(ray, Camera.main.transform.forward, out hit) && Time.time > fireRate)
         {
             Fire();
-            fireRate = Time.time + rifleCoolDown;
+            fireRate = Time.time + fireCoolDown;
 
-            hit.transform.GetComponent<EnemyCombat>().TakeDamage(weaponDamage);
+            //hit.transform.GetComponent<EnemyCombat>().TakeDamage(weaponDamage);
             GameObject newImpact = Instantiate(impactEffect, hit.point, Quaternion.LookRotation(hit.normal));
         }
     }
