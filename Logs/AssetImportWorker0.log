@@ -2967,3 +2967,210 @@ System memory in use after: 77.6 MB.
 Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3664.
 Total: 4.059200 ms (FindLiveObjects: 0.366000 ms CreateObjectMapping: 0.277800 ms MarkObjects: 3.353700 ms  DeleteObjects: 0.060400 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 8446.466964 seconds.
+  path: Assets/Effects/HanBurhan_Logo.png
+  artifactKey: Guid(6b201b9979ea80c4c9a18fab6b43a7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/HanBurhan_Logo.png using Guid(6b201b9979ea80c4c9a18fab6b43a7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e02fdac55e43661b7ad7f5b2a0ef129') in 2.039664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.751314 seconds.
+  path: Assets/HanBurhan_Logo.png
+  artifactKey: Guid(6b201b9979ea80c4c9a18fab6b43a7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HanBurhan_Logo.png using Guid(6b201b9979ea80c4c9a18fab6b43a7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2542b170249f9e01059dcc540f60c1') in 0.188629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 281.086721 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_Debris Wood.tga
+  artifactKey: Guid(c1359f3cb3c1e964899a17d4a530085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_Debris Wood.tga using Guid(c1359f3cb3c1e964899a17d4a530085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbaffc90b246a835bded2512c3e46dd4') in 0.088113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlameMine A8.tga
+  artifactKey: Guid(3e247439976f5c149a53d54bafa70fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlameMine A8.tga using Guid(3e247439976f5c149a53d54bafa70fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370d63162f1ea59d4a915f63c7af717a') in 0.073546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesBig.tga
+  artifactKey: Guid(c75eb77b7d09e4e42a99f9adf75e32cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesBig.tga using Guid(c75eb77b7d09e4e42a99f9adf75e32cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b795ec139672374410084f2b254014a3') in 0.032127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_DoubleFlames A8.tga
+  artifactKey: Guid(65859a535a819c54f91331fb9847bce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_DoubleFlames A8.tga using Guid(65859a535a819c54f91331fb9847bce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b335ba31a3061f624c1c9340b92614') in 0.034827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.140209 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesBig A8.tga
+  artifactKey: Guid(bb71b965fb657ac4188ec7eff1a468ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesBig A8.tga using Guid(bb71b965fb657ac4188ec7eff1a468ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0ceff2db78ae35a17a45a1a8563ad1') in 0.041331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesSmall 4frm.tga
+  artifactKey: Guid(3306c33d592bee140a52099c1882241a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesSmall 4frm.tga using Guid(3306c33d592bee140a52099c1882241a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8980b40c48fb1b38d2a44066d5c8a7') in 0.036543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlameThrower Stream.tga
+  artifactKey: Guid(2d79bd5c0ba916f4eaef7a2026471516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlameThrower Stream.tga using Guid(2d79bd5c0ba916f4eaef7a2026471516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b6b22e70c51ac4cf07c5da5ebdc7ea') in 0.045948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesSmallLoopAlpha.tga
+  artifactKey: Guid(2a4b64d5a28398940b5d06d77c2dbe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_FlamesSmallLoopAlpha.tga using Guid(2a4b64d5a28398940b5d06d77c2dbe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04394cf92731eba6dcaffc5a1a660e78') in 0.037796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.259627 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_GlowCircle A8.png
+  artifactKey: Guid(7c2db9e29dacb944d83a81c1168acd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_GlowCircle A8.png using Guid(7c2db9e29dacb944d83a81c1168acd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1274df31a38c9b2952e6ab1fb0e82222') in 0.016095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_GlowPalet A8.png
+  artifactKey: Guid(65fe4d99ca5e43a4898ab165fef4a9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_GlowPalet A8.png using Guid(65fe4d99ca5e43a4898ab165fef4a9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6fd7d1e34a3d34a7bd8bd603eaf80c') in 0.023028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_GroundGlow A8.tga
+  artifactKey: Guid(d06d2f147c474b542a9d215471c93d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_GroundGlow A8.tga using Guid(d06d2f147c474b542a9d215471c93d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1080c9bbaeeef0d38c0a00ff5be6a9b6') in 0.043861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.967237 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_NukeFlames.tga
+  artifactKey: Guid(b0f27e4f35172fe46aa755afaafdb432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_NukeFlames.tga using Guid(b0f27e4f35172fe46aa755afaafdb432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '792b92625e9bab18bb0147330e1dd9de') in 0.051906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_SmallDots A8.png
+  artifactKey: Guid(496676ffecd2dcf42bb99bc8a7ebd3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_SmallDots A8.png using Guid(496676ffecd2dcf42bb99bc8a7ebd3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d960aa677c78652c646b418683d2c4') in 0.021435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_SmallDots Inversed A8.png
+  artifactKey: Guid(9a1e633d22202b34eb4618124e2fbae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_SmallDots Inversed A8.png using Guid(9a1e633d22202b34eb4618124e2fbae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0fe339f540a6d7e83743d3bea8fa268') in 0.036130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeLoopAlpha.tga
+  artifactKey: Guid(00102373043eef842bee9e986845e68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeLoopAlpha.tga using Guid(00102373043eef842bee9e986845e68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c4e0ff22c84a4fd7a6c98a5458c8c6') in 0.031588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013398 seconds.
+  path: Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeLoopAlpha Average.tga
+  artifactKey: Guid(d4a2006d08ce68a41a5ca355a39d697e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeLoopAlpha Average.tga using Guid(d4a2006d08ce68a41a5ca355a39d697e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904b11379c3f46122ec9262ed0738382') in 0.040671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeNoise.tga
+  artifactKey: Guid(d9e7467f4890a244083c45417bc31ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeNoise.tga using Guid(d9e7467f4890a244083c45417bc31ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150cfc99d22b5cfd4e90552f467a99df') in 0.040870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.111440 seconds.
+  path: Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeSpikeStretched A8.tga
+  artifactKey: Guid(3d5bde7f288675e46aa301ac5bb9a959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Smoke/WFXM_T_SmokeSpikeStretched A8.tga using Guid(3d5bde7f288675e46aa301ac5bb9a959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1414ae8a21859be8c51c4b7a44a4db27') in 0.027812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_Sparks Metal A8.png
+  artifactKey: Guid(667b83d02e5a08448aea68ca3e97a606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_Sparks Metal A8.png using Guid(667b83d02e5a08448aea68ca3e97a606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6c7096f8e17abf32b636366ac62600') in 0.047713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Effects/Mobile/Textures/Misc/WFXM_T_StretchPalet A8.png
+  artifactKey: Guid(bdd7225e9443e81479ea7d5852056dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Misc/WFXM_T_StretchPalet A8.png using Guid(bdd7225e9443e81479ea7d5852056dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2776c5342133b1a3c07bab0cfd521f8f') in 0.024462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Effects/Mobile/Textures/Flames/WFXM_T_StarFlames A8.tga
+  artifactKey: Guid(71c03ef0f48f1e849a487c848205d05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Mobile/Textures/Flames/WFXM_T_StarFlames A8.tga using Guid(71c03ef0f48f1e849a487c848205d05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aeaada49a24e2a6a927e20d0c1824de') in 0.039308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2639.148244 seconds.
+  path: Assets/Military_Logo.png
+  artifactKey: Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Military_Logo.png using Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d907bd1fd69c496a28671bbc049d3de') in 1.091425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.201666 seconds.
+  path: Assets/Military_Logo.png
+  artifactKey: Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Military_Logo.png using Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b00f71f4542ce72f9e01fc972b2bbde') in 0.161610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.560345 seconds.
+  path: Assets/Military_Logo.png
+  artifactKey: Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Military_Logo.png using Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13253277539734212b5ac1b3033eb122') in 0.037981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.052786 seconds.
+  path: Assets/Military_Logo.png
+  artifactKey: Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Military_Logo.png using Guid(7ea26fcaa58a7c54ea97b1c34a736178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120638a92071011832d4942fa11d925d') in 0.047020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.865901 seconds.
+  path: Assets/Launch
+  artifactKey: Guid(723e0da0a6d04464291c6962a7c14cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Launch using Guid(723e0da0a6d04464291c6962a7c14cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3747ee56b9d59da6e7971a1b9836bdc7') in 0.022728 seconds 
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 814.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3699.
+Total: 38.897600 ms (FindLiveObjects: 0.385600 ms CreateObjectMapping: 0.146300 ms MarkObjects: 38.300000 ms  DeleteObjects: 0.064400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.840 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4090.
+Total: 2.912200 ms (FindLiveObjects: 0.418100 ms CreateObjectMapping: 0.156600 ms MarkObjects: 2.289800 ms  DeleteObjects: 0.046900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
