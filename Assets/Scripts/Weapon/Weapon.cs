@@ -9,6 +9,7 @@ public class Weapon : MonoBehaviour
 
     private AudioSource source;
     private Animator anim;
+    private bool fireable;
 
     private float fireRate;
     private float weaponDamage;
@@ -21,19 +22,37 @@ public class Weapon : MonoBehaviour
         anim = GetComponent<Animator>();
         if (weaponType == WeaponType.rifle)
         {
-            weaponDamage = 2f;
+            weaponDamage = .5f;
         }
         else if (weaponType == WeaponType.smg)
         {
-            weaponDamage = 1.5f;
+            weaponDamage = .3f;
         }
         else if (weaponType == WeaponType.shotgun)
         {
-            weaponDamage = 2.5f;
+            weaponDamage = 1f;
         }
     }
 
-    public void OpenFire()
+    private void Update()
+    {
+        if (fireable)
+        {
+            OpenFire();
+        }
+    }
+
+    public void SetFireableTrue()
+    {
+        fireable = true;
+    }
+
+    public void SetFireableFalse()
+    {
+        fireable = false;
+    }
+
+    void OpenFire()
     {
         RaycastHit hit;
         Vector3 ray = Camera.main.ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0));
@@ -43,15 +62,17 @@ public class Weapon : MonoBehaviour
             Fire();
             fireRate = Time.time + fireCoolDown;
 
-            //hit.transform.GetComponent<EnemyCombat>().TakeDamage(weaponDamage);
             GameObject newImpact = Instantiate(impactEffect, hit.point, Quaternion.LookRotation(hit.normal));
+
+            if (hit.collider != null && hit.collider.CompareTag("Zombi"))
+            {
+                hit.collider.GetComponent<ZombiBehaviour>().zombiHealth -= weaponDamage;
+            }
         }
     }
 
     public void Fire()
     {
-        anim.SetTrigger("Fire");
-
         source.clip = fireSound;
         source.Play();
         muzzleFlash.Play();
